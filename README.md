@@ -11,7 +11,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Junior Programming fro Indonesia
+I am a Junior Programming from Indonesia
 - 🏫: I am an active University Student
 - 🔗: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rosyid-1b30a0172?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
